@@ -1,4 +1,4 @@
-"===SSH==="
+"===VPN==="
 
 Server: vpn-sg2.bestvpnssh.net / 139.59.97.44<br/>
 Username: bestvpnssh.com-ganol<br/>
