@@ -1,6 +1,6 @@
 "===SSH==="
 
-Server: vpn-sg2.bestvpnssh.net / 139.59.97.44\r\n
+Server: vpn-sg2.bestvpnssh.net / 139.59.97.44&nbsp;
 Username: bestvpnssh.com-ganol
 Password: 123
 Created date: 2018-05-23
